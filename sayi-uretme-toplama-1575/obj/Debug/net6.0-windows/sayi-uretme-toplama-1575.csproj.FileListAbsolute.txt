@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\bin\Debug\net6.0-windows\sayi-uretme-toplama-1575.exe
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\bin\Debug\net6.0-windows\sayi-uretme-toplama-1575.deps.json
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\bin\Debug\net6.0-windows\sayi-uretme-toplama-1575.runtimeconfig.json
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\bin\Debug\net6.0-windows\sayi-uretme-toplama-1575.dll
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\bin\Debug\net6.0-windows\sayi-uretme-toplama-1575.pdb
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi_uretme_toplama_1575.Form1.resources
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi-uretme-toplama-1575.csproj.GenerateResource.cache
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi-uretme-toplama-1575.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi-uretme-toplama-1575.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi-uretme-toplama-1575.AssemblyInfo.cs
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi-uretme-toplama-1575.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi-uretme-toplama-1575.dll
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\refint\sayi-uretme-toplama-1575.dll
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi-uretme-toplama-1575.pdb
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\sayi-uretme-toplama-1575.genruntimeconfig.cache
+C:\Users\user\Desktop\nursevim\C#\sayi-uretme-toplama-1575\sayi-uretme-toplama-1575\obj\Debug\net6.0-windows\ref\sayi-uretme-toplama-1575.dll
